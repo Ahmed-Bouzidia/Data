@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/adsbouzidia/Desktop/EPSI_cours_tp/PROJET/1_Rendu_MSPR_Data/mlruns/926019719233567901/1a657aa1b19444e68f337754a123d25a/artifacts
+end_time: 1726436733506
+entry_point_name: ''
+experiment_id: '926019719233567901'
+lifecycle_stage: active
+run_id: 1a657aa1b19444e68f337754a123d25a
+run_name: polite-fowl-227
+run_uuid: 1a657aa1b19444e68f337754a123d25a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726436733459
+status: 4
+tags: []
+user_id: adsbouzidia

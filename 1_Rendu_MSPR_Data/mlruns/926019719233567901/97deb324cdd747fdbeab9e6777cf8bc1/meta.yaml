@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/adsbouzidia/Desktop/EPSI_cours_tp/PROJET/1_Rendu_MSPR_Data/mlruns/926019719233567901/97deb324cdd747fdbeab9e6777cf8bc1/artifacts
+end_time: 1726438256360
+entry_point_name: ''
+experiment_id: '926019719233567901'
+lifecycle_stage: active
+run_id: 97deb324cdd747fdbeab9e6777cf8bc1
+run_name: silent-mouse-314
+run_uuid: 97deb324cdd747fdbeab9e6777cf8bc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726438251338
+status: 3
+tags: []
+user_id: adsbouzidia

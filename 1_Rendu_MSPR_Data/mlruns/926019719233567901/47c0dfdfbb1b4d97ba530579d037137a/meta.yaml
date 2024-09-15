@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/adsbouzidia/Desktop/EPSI_cours_tp/PROJET/1_Rendu_MSPR_Data/mlruns/926019719233567901/47c0dfdfbb1b4d97ba530579d037137a/artifacts
+end_time: 1726436733443
+entry_point_name: ''
+experiment_id: '926019719233567901'
+lifecycle_stage: active
+run_id: 47c0dfdfbb1b4d97ba530579d037137a
+run_name: persistent-skunk-25
+run_uuid: 47c0dfdfbb1b4d97ba530579d037137a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726436724374
+status: 3
+tags: []
+user_id: adsbouzidia

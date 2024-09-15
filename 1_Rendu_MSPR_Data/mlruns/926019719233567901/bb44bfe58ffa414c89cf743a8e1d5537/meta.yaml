@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/adsbouzidia/Desktop/EPSI_cours_tp/PROJET/1_Rendu_MSPR_Data/mlruns/926019719233567901/bb44bfe58ffa414c89cf743a8e1d5537/artifacts
+end_time: 1726438055555
+entry_point_name: ''
+experiment_id: '926019719233567901'
+lifecycle_stage: active
+run_id: bb44bfe58ffa414c89cf743a8e1d5537
+run_name: rambunctious-ape-486
+run_uuid: bb44bfe58ffa414c89cf743a8e1d5537
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726438050849
+status: 3
+tags: []
+user_id: adsbouzidia

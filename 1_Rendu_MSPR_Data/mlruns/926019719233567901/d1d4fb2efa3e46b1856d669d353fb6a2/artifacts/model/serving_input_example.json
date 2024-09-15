@@ -1,0 +1,16 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "Age",
+      "Sexe_H",
+      "Orientation_politique_Droite"
+    ],
+    "data": [
+      [
+        48.0,
+        true,
+        false
+      ]
+    ]
+  }
+}

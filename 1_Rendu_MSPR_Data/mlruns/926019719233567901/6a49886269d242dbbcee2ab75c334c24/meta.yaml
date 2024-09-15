@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/adsbouzidia/Desktop/EPSI_cours_tp/PROJET/1_Rendu_MSPR_Data/mlruns/926019719233567901/6a49886269d242dbbcee2ab75c334c24/artifacts
+end_time: 1726438580382
+entry_point_name: ''
+experiment_id: '926019719233567901'
+lifecycle_stage: active
+run_id: 6a49886269d242dbbcee2ab75c334c24
+run_name: lyrical-wasp-930
+run_uuid: 6a49886269d242dbbcee2ab75c334c24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726438575297
+status: 3
+tags: []
+user_id: adsbouzidia

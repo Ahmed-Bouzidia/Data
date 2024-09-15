@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/adsbouzidia/Desktop/EPSI_cours_tp/PROJET/1_Rendu_MSPR_Data/mlruns/926019719233567901/8006c4c606954d79a068c92bbbdd3a17/artifacts
+end_time: 1726435973937
+entry_point_name: ''
+experiment_id: '926019719233567901'
+lifecycle_stage: active
+run_id: 8006c4c606954d79a068c92bbbdd3a17
+run_name: puzzled-mole-772
+run_uuid: 8006c4c606954d79a068c92bbbdd3a17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726435973877
+status: 4
+tags: []
+user_id: adsbouzidia

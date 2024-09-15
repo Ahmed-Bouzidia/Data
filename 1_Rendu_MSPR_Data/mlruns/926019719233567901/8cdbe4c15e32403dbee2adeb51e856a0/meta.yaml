@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/adsbouzidia/Desktop/EPSI_cours_tp/PROJET/1_Rendu_MSPR_Data/mlruns/926019719233567901/8cdbe4c15e32403dbee2adeb51e856a0/artifacts
+end_time: 1726438591524
+entry_point_name: ''
+experiment_id: '926019719233567901'
+lifecycle_stage: active
+run_id: 8cdbe4c15e32403dbee2adeb51e856a0
+run_name: receptive-newt-266
+run_uuid: 8cdbe4c15e32403dbee2adeb51e856a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726438585187
+status: 3
+tags: []
+user_id: adsbouzidia
